@@ -1,0 +1,903 @@
+@media screen and (max-width: 1199px) and (min-width: 480px) {
+     .bannerhead {
+        font-size: 24px;
+        width: 297px;
+    }
+   #aboutbannersect .bannerhead {
+        font-size: 24px;
+        width: 260px;
+    }
+    .feedbackbg3{
+        /* background-color: #fca600; */
+        padding: 55px 40px;
+        width: 100%;
+        position: relative;
+    }
+    .feedpara{
+        font-size: 16px;
+    }
+    .padinsbox{
+        padding: 26px 32px 37px 26px;
+    }
+    .carouselpad{
+        padding: 48px 87px 81px 87px;
+    }
+    #navbarsect ul li a {
+        color: #fff;
+        font-size: 10px;
+        font-family: myFirstFont;
+    }
+    .designpara{
+        color: #003334;
+        font-size: 24px;
+        font-family: myThirdFont;
+    }
+    .fourpara {
+        font-size: 23px;
+    }
+    .padrange {
+        padding: 49px 70px 48px 52px;
+    }
+    .rangeimg {
+        background-position-x: -160px;
+    }
+    #rangeservice .rangehead {
+        width: 260px;
+    }
+    #foursect .fourpara{
+        width: 259px;
+        margin: auto;
+        padding-bottom: 64px;
+    }
+    .padrangeonly {
+        padding: 80px 0 0 0;
+    }
+    #rangeservice .posrange {
+        left: 0;
+    }
+    #deploycasebg{
+        background: #febaae;
+        padding: 52px 120px 79px 120px;
+    }
+    #rangeservice .posmd img {
+        width: 445px;
+    }
+
+    #rangeservice .posrange2 {
+        position: absolute;
+        bottom: 122px;
+        left: 0;
+    }
+    .rangepara {
+        color: #003334;
+        font-size: 16px;
+        font-family: myThirdFont;
+        width: 248px;
+    }
+    .wd135 {
+        width: 190px;
+    }
+
+    .clienthead {
+        font-size: 20px;
+    }
+
+    .rangehead {
+        font-size: 24px;
+    }
+
+    .rangepara {
+        font-size: 16px;
+    }
+
+    .casebtn {
+        font-size: 14px;
+    }
+
+    .posabs1 {
+        position: absolute;
+        bottom: 0;
+        width: 100%;
+    }
+    .padfoot{
+        padding: 60px 101px 60px 114px ;
+    }
+    #navbarsect nav {
+        padding: 31px 30px 31px 83px;
+    }
+    /* .mdbanner img {
+        width: 434px;
+    } */
+    #contactbannersect .mdbanner img {
+        width: 320px;
+    }
+    .padbothbanner {
+        padding: 35px 0 0 95px;
+    }
+    .rangebg1, .rangebg2{
+        height: 380px;
+    }
+    #aboutrangeservice .rangebg1, #aboutrangeservice .rangebg2{
+        height: 435px;
+    }
+    .bannerimage img{
+        width: 434px;
+        height: 381px;
+    }
+
+
+    /* about */
+    #aboutrangeservice .rangebg1 img {
+        position: absolute;
+        bottom: -5px;
+        left: 0;
+        z-index: 1;
+        right: 0;
+        width: 398px;
+    }
+    .padaboutsect2{
+        padding: 52px 133px 81px 134px; 
+    }
+    .aboutpara{
+        color: #003334;
+        font-size: 16px;
+        text-align: center;
+        font-family: myThirdFont;
+    }
+    #about2sect .aboutpara{
+        width: 500px;
+    }
+    .rangehead{
+        color: #003334;
+        font-size: 24px;
+        font-family: myFirstFont;
+    }
+    #aboutrangeservice .aboutpara2{
+        color: #003334;
+        font-size: 12px;
+        font-family: myThirdFont;
+    }
+    .aboutlogopara{
+        font-size: 14px;
+        width: 165px;
+    }
+    #logoabouticonsect img{
+        width: 110px;
+        height: 105px;
+    }
+    .rangenichehead{
+        color: #003334;
+        font-size: 24px;
+    }
+    .padabouttrain{
+        padding: 46px 43px 46px 43px;
+    }
+    .padbluesect{
+        padding: 41px 91px 63px 88px;
+    }
+    .rangenichehead2{
+        font-size: 24px;
+    }
+    .navbar>.container, .navbar>.container-fluid, .navbar>.container-lg, .navbar>.container-md, .navbar>.container-sm, .navbar>.container-xl, .navbar>.container-xxl {
+        display: flex;
+        flex-wrap: inherit;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .thinkpad{
+        padding: 73px 74px 0 0;
+    }
+
+    /* contact */
+    .callpad{
+        padding: 53px 71px 80px 75px;
+    }
+    .width334{
+        width: 622px;
+        margin: auto;
+    }
+    .contactpara{
+        font-size: 16px;
+    }
+    #contactrangeservice .rangebg1 {
+        background: #fddad5;
+        width: 100%;
+        height: 300px;
+    }
+    .formpad{
+        padding: 62px 77px 72px 74px;
+    }
+    form label {
+        font-family: myThirdFont;
+        font-size: 14px;
+        color: #003334;
+    }
+    .rangebg11{
+    height: 100%;
+}
+    /* discover page */
+    #deploypagesect #navbarsect ul li a {
+        color: #003334;
+        font-size: 10px;
+        /* font-family: myFirstFont; */
+        font-family: mySixFont;
+
+    }
+    .paddeploybanner {
+        padding: 31px 136px 155px 113px;
+    }
+    .bigfont{
+        font-size: 79px;
+        width: 480px;
+    }
+    .deploypadsect2 {
+        padding: 52px 120px 79px 120px;
+    }
+    .padorangesect{
+        padding: 40px 153px 29px 153px
+    }
+    .deplohead2{
+        font-size: 24px;
+        font-family: myFirstFont;
+        width: 530px;
+    }
+    .padside{
+        padding: 101px 91px 131px 117px;
+    }
+    .padsidedeploycase {
+        padding: 80px 91px 90px 117px;
+    }
+    .sideimg img{
+        width: 187px;
+        height: 193px;
+    }
+    .sidehead{
+        font-size: 24px;
+        font-family: myFirstFont;
+        color: #003334;
+    }
+    .sidepara{
+        font-size: 16px;
+        font-family: myFirstFont;
+        color: #003334; 
+    }
+    .deployrangeimg img {
+        width: 445px;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+    }
+    .rangedeploybg {
+        padding: 76px 67px 0 255px;
+    }
+    .rangediscoverbg{
+        padding: 50px 78px 49px 85px;
+    }
+    .deploypara{
+        color: #003334;
+        font-size: 24px;
+        font-family: myThirdFont;
+    }
+    .thinkpad{
+        padding: 53px 116px 0 68px;
+    }
+    .discoverrangeimg img {
+        /* width: 375px; */
+        position: absolute;
+        bottom: 0;
+        left: -18%;
+    }
+    .padtop{
+        margin-bottom: 25px;
+    }
+    .paddiscoverbanner {
+        padding: 47px 0 0 113px;
+    }
+
+    .padrangediscover{
+        padding: 50px 78px 49px 50px;
+    }
+    .tvimg img{
+        width: 571px;
+        height: 338px;
+        margin-top: -85px;
+    }
+    .madtop165{
+        margin-top: 102px;
+    }
+    .bggrey{
+        background: #f1f1f1;
+        padding: 0 63px 32px 63px;
+        height: 262px; 
+    }
+    .discoverpd{
+        padding: 50px 78px 51px 29px;
+        background: #e8e7e4;
+    }
+    .discoverparagraph{
+        font-size: 16px;
+        /* width: 253px; */
+    }
+    .designdeploybg{
+        background: #f3f3f1;
+        padding: 52px 70px 0 70px;
+    }
+    .bigfontdesign {
+        font-size: 83px;
+        font-family: myFirstFont;
+        width: 375px;
+        line-height: 60px;
+    }
+    .designdeployrangeimg img{
+        width: 305px;
+        height: 412px;
+    }
+    .martop93, .mar30, .mar93{
+        margin-top: 40px;
+    }
+    .design3pad{
+        padding: 38px 81px 31px 81px;
+    }
+    .bgorangey {
+        background-color: #fddbd6;
+        padding: 0 26px 32px 26px;
+        height: 100%;
+        border-radius: 4px;
+    }
+    .supportrangeimg img{
+        width: 285px;
+    }
+    .learn3pad{
+        padding: 93px 88px 106px 106px;
+    }
+
+    .learnpara2, .learnwidth{
+        width: 268px;
+        margin: auto;
+    }
+    .rangebg1 img {
+        width: 336px;
+        height: 407px;
+        margin-top: -53px;
+    }
+    .mdbanner2 img {
+        width: 100%;
+        height: 298px;
+    }
+    .feebackbg2 {
+    background: #f3f3f1;
+    width: 100%;
+    padding: 51px 40px;
+    }
+    .sideparadeploy{
+        font-size: 16px;
+    }
+    .listhere li {
+        font-size: 16px;
+        font-family: myThirdFont;
+    }
+    .listhere{
+        line-height: 24px;
+    }
+}
+
+/* //////////////////////////////////////////////////////////////////////////////////////////////////// */
+@media screen and (max-width: 479px) {
+    .wd135 {
+        width: 100%;
+    }
+    .thinkpad{
+        padding: 54px 77px 0 0;
+    }
+    .alsm{
+        align-items: center;
+    }
+    #rangeservice .rangehead {
+        width: 262px;
+    }
+    .rangepara {
+        width: 262px;
+    }
+
+    .rangebg1 {
+        background: #fbb6ab;
+        width: 100%;
+        height: 195px;
+    }
+    .aboutpara2{
+        font-size: 12px;
+    }
+    .rangenichehead2{
+        font-size: 18px;
+    }
+   .bannerhead {
+        font-size: 15px;
+        width: 126px;
+    }
+    #about2sect .aboutpara {
+        width: 283px;
+    }
+    .padfoot{
+        padding: 65px 44px 23px 44px ;
+        text-align: center;
+    }
+    #navbarsect .navmob{
+        padding: 48px 17px 30px 45px;
+    }
+    .padbothbanner {
+        padding: 30px 0 0 50px;
+    }
+    .mdbanner img {
+        width: 258px;
+        height: 314px;
+        text-align: right;
+    }
+    .mdbanner2 img {
+        width: 100%;
+        height: 295px;
+    }
+    .rangeimg{
+        background-image: url("../img/home/rangebg.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 100%;
+        height: 100vh;
+    }
+    #rangeservice .posrange2{
+        bottom: 0;
+        left: 0;
+    }
+    .rangehead {
+        font-size: 24px;
+    }
+    .rangepara{
+        font-size: 16px;
+    }
+    
+    .discoverparagraph{
+        font-size: 16px;
+        /* width: 253px; */
+    }
+    .casebtn{
+        font-size: 14px;
+    }
+    #rangeservice .posrange {
+        position: absolute;
+        bottom: -68px;
+        z-index: 1;
+    }
+    .wd135{
+        width: 75%;
+    }
+    .heighthere2{
+        height: 0;
+    }
+    .footerpara{
+        color: #fff;
+        font-size: 10px;
+        font-family: myThirdFont;
+    }
+    #footersect .smtext{
+        font-size: 9px;
+    }
+    .orgibox img{
+        height: 241px;
+        width: 241px;
+    }
+    .orgibox, .orgibox2{
+        margin: 20px;
+    }
+    .fourpara{
+        padding-top: 0;
+    }
+
+    .padrange {
+        padding: 49px 76px 49px 50px;
+    }
+    .rangebg2 {
+        height: 386px;
+    }
+    .padrangeonly {
+        padding: 36px 0 0 0;
+    }
+    #aboutrangeservice .rangebg1 img {
+        width: 670px;
+    }
+
+
+    .padaboutsect2 {
+        padding: 50px 39px 50px 39px;
+    }
+    #aboutrangeservice .rangebg1 img {
+        width: 373px;
+        height: 160px;
+    }
+    #aboutrangeservice .rangebg1{
+        height: 113px;
+    }
+    #aboutrangeservice .rangebg2{
+        height: 385px;
+    }
+    #aboutrangeservice .rangebg1 img {
+        position: absolute;
+        left: 0;
+        bottom: -20%;
+    }
+
+    .aboutlogopara, .aboutpara{
+        font-size: 16px;
+    }
+    .rangenichehead{
+        color: #003334;
+        font-size: 20px;
+        text-align: center;
+        font-family: myFirstFont;
+    }
+    #logoabouticonsect img {
+        width: 110px;
+        height: 105px;
+
+    }
+    .mt76{
+        margin-top: 76px;
+    }
+    .padbluesect{
+        padding: 40px 32px 40px 32px;
+    }
+    .thinkpara{
+        font-size: 15px;
+    }
+
+    .callpad{
+        padding: 40px 34px 54px 31px;
+    }
+    .contactpara {
+        font-size: 16px;
+    }
+    #contactrangeservice .rangebg1 {
+        height: 371px;
+    }
+    .width334{
+        width: 298px;
+        margin: auto;
+    }
+    #contactrangeservice .rangebg2 {
+        height: 613px;
+    }
+    .clientpad {
+        padding: 48px 30px 48px 30px;
+    }
+    .formpad{
+        padding: 41px 36px 41px 34px;
+    }
+
+    /* discover page */
+    .bigfont{
+        font-size: 42px;
+        font-family: myFirstFont;
+        width: 156px;
+    }
+    .deployservice .deployrangeimg img{
+        width: 240px;
+        right: 0;
+    }
+    .deploypadsect2 {
+        padding: 50px 30px 63px 48px;
+    }
+    .padorangesect{
+        padding: 26px 46px 26px 46px
+    }
+    .deplohead2{
+        font-size: 22px;
+    }
+    .sideimg img {
+        width: 193px;
+        height: 193px;
+    }
+    .padside {
+        padding: 79px 84px 68px 84px;
+    }
+    .padsidedeploycase{
+        padding: 68px 34px 68px 34px;
+    }
+    .textright{
+        text-align: center;
+    }
+    .sidehead {
+        font-size: 24px;
+        font-family: myFirstFont;
+        color: #003334;
+        padding-top: 38px;
+    }
+    .sidepara{
+        font-size: 16px;
+    }
+    .textcenter{
+        text-align: center;
+    }
+    .top98{
+        padding-top: 98px;
+    }
+    .rangedeploybg {
+        padding: 37px 59px 0 55px;
+        height: 479px;
+    }
+    .deploypara{
+        color: #003334;
+        font-size: 16px;
+        font-family: myThirdFont;
+    }
+    .thinkpad{
+        padding: 48px 67px 0 0;
+    }
+    .paddeploybanner {
+        padding: 46px 46px 95px 46px;
+    }
+    .paddiscoverbanner {
+        padding: 33px 0 0 29px;
+    }
+    .discoverhead{
+        color: #fff;
+        font-size: 15px;
+        font-family: myFirstFont;
+        width: 112px;
+    }
+    .deployhead{
+        color: #003334;
+        font-size: 24px;
+        text-align: center;
+        font-family: myFirstFont;
+    }
+    .deploypara{
+        color: #003334;
+        font-size: 16px;
+        text-align: center;
+        font-family: myThirdFont;
+    }
+    .figurediscoverpad {
+        padding: 41px 29px 18px 29px;
+    }
+    .bg-purple{
+        margin-top: 14px;
+    }
+    .padbottom53{
+        padding-bottom: 25px;
+    }
+    .deployhead{
+        color: #003334;
+        font-size: 31px;
+        text-align: center;
+        font-family: myFirstFont;
+    }
+    .discoverrangeimg img {
+        width: 142px;
+        position: absolute;
+        bottom: 0;
+        right: 0;
+    }
+    .designdeployrangeimg img{
+        width: 142px;
+        position: absolute;
+        bottom: 0;
+        right: 0;
+    }
+    .padrangediscover{
+        padding: 37px 56px 52px 50px;
+    }
+    .madtop165{
+        margin-top: 45px;
+    }
+
+    .tvimg img{
+        width: 300px;
+        height: 157px;
+            margin-top: -40px;
+    }
+    .madtop165{
+        margin-top: 65px;
+    }
+    .bggrey{
+        background: #f1f1f1;
+        padding: 0 29px 13px 29px;
+        height: 123px; 
+    }
+    .padinsbox{
+        padding: 27px 24px 51px 25px;
+    }
+    .carouselpad{
+        padding: 48px 39px 81px 39px;
+    }
+    .discoverpd{
+        padding: 36px 56px 52px 52px;
+        background: #e8e7e4;
+        height: 100%;
+    }
+    .bigfontdesign{
+        font-size: 42px;
+        font-family: myFirstFont;
+        width: 192px;
+        line-height: 35px;
+    }
+    .designpara{
+        font-size: 15px;
+        width: 132px;
+    }
+    .design3pad {
+        padding: 48px 40px 109px 40px;
+    }
+    .designdeploybg{
+        padding: 36px 55px 52px 52px;
+        background: #f3f3f1;
+        height: 434px;
+    }
+
+    .designdeployrangeimg2 img {
+        width: 100px;
+        position: absolute;
+        bottom: 0;
+        right: 0;
+    }
+    .designdeployrangeimg3 img {
+        width: 82px;
+        position: absolute;
+        bottom: 0;
+        right: 0;
+    }
+    .supportbg{
+        padding: 36px 55px 52px 52px;
+        background: #f3f3f1;
+        height: 479px;  
+    }
+    .supportrangeimg{
+        width: 485px;
+        position: absolute;
+        bottom: -15%;
+        left: -18%;
+    }
+    .mar93{
+        margin-top: 93px;
+    }
+
+    .learn3pad{
+        padding: 61px 59px 129px 60px;
+    }
+
+    .learnpara2, .learnwidth{
+        width: 268px;
+        margin: auto;
+    }
+    .learnmobpara{
+        font-size: 20px;
+    }
+    .mdbanner img {
+        width: 100%;
+        height: 255px;
+    }
+
+    .mdrange img {
+        width: 100%;
+        height: 357px;
+    }
+    .rangebg1 img {
+
+        margin-top: -105px;
+    }
+    #aboutrangeservice .rangebg1 img {
+        width: 100%;
+        height: 160px;
+    }
+    .sideparadeploy{
+        font-size: 16px;
+    }
+    .posabssss2{
+        position: absolute;
+        right: 156px;
+        bottom: -38px;
+    }
+    .posabssss2 img{
+        transform: rotate(90deg);
+    }
+    .listhere li {
+        font-size: 16px;
+        font-family: myThirdFont;
+    }
+
+    #deploycasebg {
+        background: #febaae;
+        padding: 50px 30px 63px 48px;
+    }
+
+    .mdimg img{
+        width: 40%;
+        text-align: center;
+    }
+    .centerhere{
+        text-align: center;
+    }
+    .bgfooterimg{
+        background-image: url("../img/footer-mb.png");
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 100%;
+        height: 100%;
+    }
+}
+
+
+
+@media screen and (max-width: 690px) and (min-width: 478px) {
+    #navbarsect nav {
+        padding: 31px 30px 31px 83px;
+    }
+    .paddiscoverbanner {
+        padding: 47px 0 0 83px;
+    }
+    .bannerimage img {
+        width: 100%;
+        height: 381px;
+    }
+    .tvimg img {
+        width: 100%;
+        height: 338px;
+        margin-top: -85px;
+    }
+    #about2sect .aboutpara {
+        width: 100%;
+    }
+    .padaboutsect2 {
+        padding: 52px 80px 81px 80px;
+    }
+    #aboutrangeservice .rangebg1 img {
+        position: absolute;
+        bottom: -5px;
+        left: 0;
+        z-index: 1;
+        right: 0;
+        width: 100%;
+        height: 345px;
+
+    }
+    .thinkpara, .deploypara {
+        color: #003334;
+        font-size: 16px;
+        font-family: myThirdFont;
+    }
+    .mdbanner2 img {
+        width: 100%;
+        height: 298px;
+    }
+    .deplohead2 {
+        font-size: 24px;
+        font-family: myFirstFont;
+        width: 100%;
+    }
+    .discoverrangeimg img {
+        width: 30%;
+        position: absolute;
+        bottom: 0;
+        left: 68%;
+    }
+    .bigfont {
+        font-size: 79px;
+        width: 100%;
+    }
+    .designdeploybg {
+        background: #f3f3f1;
+        padding: 52px 80px 0 80px;
+    }
+  .wsm{
+        width: 125px;
+    }
+    .mdbanner2 img {
+        width: 100%;
+        height: 298px;
+    }
+    .supportbg {
+        padding: 59px 85px 0 85px;
+        background: #f3f3f1;
+    }
+    .lineheight {
+        line-height: 65px;
+    }
+}

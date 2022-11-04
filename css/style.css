@@ -1,0 +1,972 @@
+body{
+    margin: 0;
+    padding: 0;
+    overflow-x : hidden;
+   
+}
+#homepagesect{
+    background: #f1f1f1;
+}
+
+img{
+    width: 100%;
+}
+.bg-white{
+    background: #fff;
+}
+
+@font-face {
+    font-family: myFirstFont;
+    src: url('../font/Gilroy-Semibold.woff');
+}
+@font-face {
+    font-family: mySecondFont;
+    src: url('../font/Gilroy-Light.otf');
+}
+@font-face {
+    font-family: myThirdFont;
+    src: url('../font/Gilroy-Regular.ttf');
+}
+@font-face {
+    font-family: myForthFont;
+    src: url('../font/Gilroy-ExtraBold.ttf');
+}
+@font-face {
+    font-family: myFifthFont;
+    src: url('../font/Gilroy-ExtraBold.ttf');
+}
+@font-face {
+    font-family: mySixFont;
+    src: url('../font/Gilroy-Bold.ttf');
+}
+.zindexx{
+    z-index: 2;
+}
+.zindex{
+    z-index: 1;
+}
+/* navbarsect */
+#homepagesect #navbarsect nav{
+    background: #003334;
+}
+#navbarsect nav{
+    padding: 42px  0 0 0;
+}
+.navbar>.container, .navbar>.container-fluid, .navbar>.container-lg, .navbar>.container-md, .navbar>.container-sm, .navbar>.container-xl, .navbar>.container-xxl {
+    display: flex;
+    flex-wrap: inherit;
+    align-items: self-start;
+    justify-content: space-between;
+}
+.navbar-nav {
+    --bs-nav-link-padding-x: 0;
+    --bs-nav-link-padding-y: 0;
+}
+#navbarsect ul li a{
+    color: #fff;
+    font-size: 15px;
+    font-family: myFirstFont;
+}
+.height322{
+    height: 322px;
+}
+
+/* bannerhere */
+/* .bannerhere{
+    background-image: url("../img/home/banner.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+} */
+.bgfooterimg{
+    background-image: url("../img/footer.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+.bannerimage img{
+    width: 700px;
+    height: 570px;
+}
+.bannerhere, .contactbannerhere{
+    background: #003334;
+}
+#bannersect, #aboutbannersect, #contactbannersect{
+    position: relative;
+}
+.posabs{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+.posabs img, .posabs2 img{
+    z-index: -1;
+}
+.posabs2{
+    position: absolute;
+    right: 25px;
+    bottom: 0;
+}
+.heighthere{
+    height: 85vh;
+}
+.bannerhead{
+    color: #fff;
+    font-size: 37px;
+    font-family: myFirstFont;
+    width: 464px;
+}
+.fourpara{
+    color: #003334;
+    font-size: 22px;
+    text-align: center;
+    font-family: myThirdFont;
+    padding-top: 16px;
+}
+#foursect .fourpara{
+    width: 237px;
+    margin: auto;
+}
+.padbothbanner{
+    padding: 75px 0 0 0;
+}
+
+.bggrey{
+    background: #f1f1f1;
+    padding: 0 177px 34px 177px;
+    height: 408px; 
+}
+.tvimg{
+    position: relative;
+}
+.tvimg img{
+    width: 903px;
+    height: 467px;
+    margin-top: -85px;
+}
+.madtop165{
+    margin-top: 160px;
+}
+
+/* 4sect */
+.orgibox{
+    border-radius: 16px;
+    background-color: #fbb7ab;
+    height: 100%;
+    text-align: center;
+    margin: auto;
+    padding: 33px 23px 41px 13px;
+}
+.orgibox2{
+    border-radius: 16px;
+    background-color: #fbb7ab;
+    height: 100%;
+    padding: 60px 23px 0 13px;
+}
+.orgibox img{
+    height: 237px;
+    width: 237px;
+}
+.orgibox2 img{
+    height: 250px;
+    width: 237px;
+}
+
+
+/* client */
+.clienthead{
+    font-size: 31px;
+    font-family: myFirstFont;
+    color: #003334;
+}
+
+/* carouse000l */
+#carouselarea{
+    background: #f1f1f1;
+}
+.boxwhite{
+    background: #fff;
+    border-radius: 4px;
+    height: 100%;
+}
+.padinsbox{
+    padding: 26px 32px 37px 26px;
+}
+.textherecaro{
+    color: #003334;
+    font-size: 14px;
+    font-family: myFirstFont;
+}
+#carouselarea .carousel-indicators{
+    bottom: -50px;
+}
+#carouselarea .carousel-indicators button{
+    border-radius: 50%;
+    width: 9px;
+    height: 9px;
+    background: #003334;
+}
+.carousel-indicators [data-bs-target] {
+    border-top: 0;
+    border-bottom: 0;
+}
+.carouselpad{
+    padding: 76px 146px 123px 146px;
+}
+/* rangeimg */
+#rangeservice{
+    position: relative;
+}
+#rangeservice .posrange{
+    position: absolute;
+    bottom: 0;
+    z-index: 1;
+}
+
+#rangeservice .posrange2{
+    position: absolute;
+    bottom: 58px;
+    left: 0;
+}
+.text-right{
+    text-align: right;
+}
+.rangebg1{
+    background: #fbb6ab;
+    width: 100%;
+    height: 580px;
+}
+/* .rangebg1 img{
+    width: 663px;
+    position: absolute;
+    bottom: -2%;
+    left: 0;
+    z-index: 1;
+} */
+.rangebg1 img{
+    width: 663px;
+    height: 636px;
+    margin-top: -40px;
+}
+.padrangeonly{
+    padding: 230px 0 0 0;
+}
+.padrange{
+    padding: 76px 109px 75px 97px;
+}
+.rangebg2{
+    background: #fddad5;
+    width: 100%;
+    height: 580px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.wd135{
+    width: 135%;
+}
+.rangeimg{
+    background-image: url("../img/home/rangebg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.heighthere2{
+    height: 72vh;
+}
+.heighthere5{
+    height: 60vh;
+}
+.rangehead{
+    color: #003334;
+    font-size: 37px;
+    font-family: myFirstFont;
+}
+#rangeservice .rangehead{
+    width: 406px;
+}
+.rangepara{
+    color: #003334;
+    font-size: 25px;
+    font-family: myThirdFont;
+    width: 425px;
+}
+.casebtn{
+    border-radius: 28px;
+    background-color: #02758e;
+    padding: 8px 15px;
+    border: none;
+    color: #fff;
+    font-size: 18px;
+}
+form label{
+    font-family: myThirdFont;
+    font-size: 16px;
+    color: #003334;
+}
+
+/* footer */
+/* .footerbghere{
+    background-image: url("../img/footer.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+} */
+#footersect, .zindex{
+    z-index: 1;
+}
+.footerbghere{
+    background: #003334;
+    position: relative;
+}
+.posabs1{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+.heighthere3{
+    height: 70vh;
+}
+.listfooter li{
+    list-style-type: none;
+}
+.listfooter li a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 13px;
+    font-family: myThirdFont;
+}
+.linkfooter{
+    color: #f55e1f;
+    font-size: 12px;
+    font-family: myThirdFont;
+    text-decoration: none;
+}
+.footerpara{
+    color: #fff;
+    font-size: 12px;
+    font-family: myThirdFont;
+}
+#footersect p{
+    color: #fff;
+    font-size: 13px;
+    font-family: myThirdFont;
+}
+#footersect p i{
+    font-size: 13px;
+    padding-right: 12px;
+}
+#footersect .smtext{
+    font-size: 11px;
+    font-family: myThirdFont;
+}
+.footerlinkhead{
+    color: #f25e1f;
+    font-size: 16px;
+    font-family: myForthFont;
+}
+.padtop{
+    padding-top: 50px;
+}
+.footeracknowledge{
+    /* margin-right: 150px; */
+    width: 170px;
+}
+.padfoot{
+    padding: 116px 0 158px 0 ;
+}
+.padright{
+    padding-right: 90px;
+}
+
+
+
+
+/* //////////////////////ABOUT US */
+.aboutbannerhere{
+    background: #02758f;
+}
+#aboutrangeservice .rangebg1{
+    position: relative;
+}
+/* navbar */
+#aboutpagesect #navbarsect nav{
+    background: #02758f;
+    z-index: 1;
+}
+.padaboutsect2{
+    padding: 83px 212px 130px 212px; 
+}
+.abouthead{
+    color: #003334;
+    font-size: 31px;
+    text-align: center;
+    font-family: myFirstFont;
+}
+.aboutpara{
+    color: #003334;
+    font-size: 25px;
+    text-align: center;
+    font-family: myThirdFont;
+}
+#about2sect .aboutpara{
+    width: 780px;
+}
+
+#aboutrangeservice .rangebg1 img {
+
+    width: 621px;
+}
+#aboutpagesect{
+    background: #fff;
+}
+.rangenichehead{
+    color: #003334;
+    font-size: 31px;
+    text-align: center;
+    font-family: myFirstFont;
+
+}
+.rangenichehead2{
+    font-size: 37px;
+}
+.aboutpara2{
+    color: #003334;
+    font-size: 19px;
+    font-family: myThirdFont;
+}
+.padabouttrain{
+    padding: 72px 69px 74px 77px;
+}
+#logoabouticonsect{
+    background: #f7f7f7;
+}
+#logoabouticonsect img{
+    width: 184px;
+    height: 151px;
+}
+.aboutlogopara{
+    color: #003334;
+    font-size: 22px;
+    text-align: center;
+    font-family: myThirdFont;
+    width: 257px;
+    margin: auto;
+}
+
+.bg-blue{
+    background: #02758f;
+
+}
+.padbluesect{
+    padding: 64px 142px 56px 139px;
+}
+.thinkpad{
+    padding: 66px 111px 0 0;
+}
+.thinkpara{
+    color: #003334;
+    font-size: 25px;
+    font-family: myThirdFont;
+}
+.thinkparapad{
+    padding-bottom: 50px;
+}
+
+/* //contact */
+#contactrangeservice .rangebg1{
+    background: #fddad5;
+    width: 100%;
+    height: 671px;
+}
+#contactrangeservice .rangebg2{
+    background: #fbb6ab;
+    width: 100%;
+    height: 671px;
+}
+#contactrangeservice textarea, form textarea{
+    width: 100%;
+    height: 85px;
+    padding: 15px;
+    border-radius: 0;
+    border: 0;
+}
+#contactrangeservice input{
+    border-radius: 0;
+    border: 0;
+}
+.rangebg11{
+    background: #fddad5;
+    width: 100%;
+    height: 640px ;
+}
+.rangebg22{
+    background: #fbb6ab;
+    width: 100%;
+    height: 640px;
+}
+.callpad{
+    padding: 82px 0 65px 0;
+}
+#contactrangeservice i{
+    font-size: 20px;
+}
+.contactpara{
+    color: #003334;
+    font-size: 20px;
+    font-family: myThirdFont;
+}
+.contactrangefix{
+    background-image: url("../img/home/rangebg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+.width334{
+    width: 334px;
+    margin: auto;
+}
+.ms10{
+    margin-left: 10px;
+}
+#contactrangeservice form input{
+    width: 100%;
+}
+.btnaccsite{
+    background: #02758f;
+    color: #fff;
+    font-size: 20px;
+    font-family: myFirstFont;
+    border-radius: 0;
+    padding: 10px 38px;
+}
+.clientpad{
+    padding: 48px 0 48px 0;
+}
+.formpad{
+    padding: 70px 88px 64px 79px;
+}
+.bigfont{
+    font-size: 139px;
+    font-family: myFirstFont;
+    width: 749px;
+    color: #003334;
+}
+
+
+/* discover page */
+#homepagesect #navbarsect nav{
+    background: #003334;
+}
+
+
+/* deploy page */
+#deploypagesect #navbarsect nav{
+    background: #fbb7ab;
+}
+.deploybannerhere{
+    background: #fbb7ab;
+}
+#deploypagesect #navbarsect ul li a {
+    color: #003334;
+    font-size: 15px;
+    font-family: mySixFont;
+}
+.text-black{
+    color: #003334 !important;
+}
+.rangedeploybg{
+    background: #e8e7e4;
+    height: 393px;
+}
+.paddeploybanner {
+    padding: 100px 136px 155px 180px;
+}
+.deploypadsect2{
+    padding: 84px 0 70px 0;
+}
+.padorangesect{
+    padding: 62px 0 47px 0
+}
+.bg-orange{
+    background: #fba500;
+}
+.deplohead2{
+    font-size: 37px;
+    font-family: myFirstFont;
+}
+.bg-grey{
+    background:  #e8e7e4;
+}
+.padside{
+    padding: 158px 143px 180px 218px;
+}
+.padsidedeploycase{
+    padding: 138px 143px 165px 218px
+}
+.sideimg img{
+    width: 301px;
+    height: 301px;
+}
+.sidehead{
+    font-size: 37px;
+    font-family: myFirstFont;
+    color: #003334;
+}
+.sidepara{
+    font-size: 25px;
+    font-family: myFirstFont;
+    color: #003334; 
+}
+.textright{
+    text-align: right;
+}
+.rangedeploybg{
+    padding: 84px 116px 0 110px;
+}
+.deployrangeimg img{
+    width: 538px;
+    position: absolute;
+    bottom: 0;
+    z-index: 1;
+}
+.deployhead{
+    font-size: 31px;
+    font-family: myFirstFont;
+    color: #003334;
+}
+.deploypara{
+    color: #003334;
+    font-size: 25px;
+    font-family: myThirdFont;
+}
+
+/* .imgsizedeploy img{
+    width: 307px;
+} */
+
+
+/* discover */
+.discoverparagraph{
+    color: #003334;
+    font-size: 19px;
+    font-family: myThirdFont;
+    /* width: 253px; */
+}
+.mdbanner, .mdbanner2{
+    text-align: right;
+}
+.mdbanner2 img {
+    width: 578px;
+    height: 515px;
+    text-align: right;
+}
+.width338{
+    width: 338px;
+}
+.discoverhead{
+    color: #fff;
+    font-size: 37px;
+    font-family: myFirstFont;
+    width: 285px;
+}
+.paddiscoverbanner {
+    padding: 78px 0 0 0;
+}
+.fontbigger{
+    font-family: myFifthFont;
+}
+.bgaccsite{
+    background: #fddad5;
+}
+.discoverrangeimg img{
+    width: 425px;
+    position: absolute;
+    bottom: 0;
+}
+.bg-purple{
+    background: #bfdce3;
+}
+#discoverfigure .bg-purple{
+    height: 100%;
+    padding: 95px 0;
+}
+.imgsizediscover img{
+    width: 123px;
+    height: 102px;
+
+}
+.imgsizediscover{
+    text-align: center;
+}
+.figurediscoverpad{
+    padding: 81px 67px 65px 65px;
+}
+.padbottom53{
+    padding-bottom: 53px;
+}
+.pad65{
+    padding-top: 65px;
+}
+.discoverhelp{
+    font-size: 37px;
+    font-family: myFirstFont;
+    color: #003334;
+}
+.rangediscoverbg{
+    background: #e8e7e4;
+
+}
+.discoverpd{
+    padding: 50px 82px 0 84px;
+    background: #e8e7e4;
+    height: 442px;
+}
+/* .padrangediscover{
+    padding: 37px 56px 52px 50px;
+} */
+.deployheadi{
+    font-size: 31px;
+    font-family: myFirstFont;
+    color: #003334;
+}
+
+
+/* design and deploy */
+.designpara{
+    width: 362px;
+    font-size: 37px;
+    font-family: myFirstFont;
+}
+.bigfontdesign{
+    font-size: 139px;
+    font-family: myFirstFont;
+    width: 749px;
+    line-height: 105px;
+    color: #003334;
+}
+.bg-yellow{
+    background: #f45e1f;
+}
+.design3pad{
+    padding: 92px 135px 93px 135px;
+}
+.bgorangey{
+    background-color: #fddbd6;
+    padding: 0 31px 32px 26px;
+    height: 100%;
+    border-radius: 4px;
+}
+
+.bgorangey img{
+    width: 136px;
+    height: 135px;
+    margin-top: -8%;
+}
+.design3head{
+    font-size: 16px;
+    font-family: mySixFont;
+    padding-top: 26px;
+}
+.design3head2{
+    font-size: 16px;
+    font-family: mySixFont;
+    padding-top: 8px;
+}
+p.design3para{
+    font-size: 14px;
+    font-family: myThirdFont;
+}
+.martop93{
+    margin-top: 93px;
+}
+.designdeploybg{
+    background: #f3f3f1;
+}
+.designdeployrangeimg img{
+    width: 538px;
+    margin-top: -50px;
+}
+#carouse .carousel-indicators{
+    bottom: 8%;
+}
+#carouse .carousel-indicators button{
+    border-radius: 50%;
+    width: 9px;
+    height: 9px;
+    background: #003334;
+}
+.carousel-indicators [data-bs-target] {
+    border-top: 0;
+    border-bottom: 0;
+}
+
+
+.container{
+    max-width: 1230px;
+    /* width: 1200px; */
+}
+
+/* support */
+.supportbg{
+    padding: 59px 85px 60px 85px;
+    background: #f3f3f1;
+}
+.supportrangeimg img{
+    width: 538px;
+    position: absolute;
+    bottom: 25%;
+    left: 0;
+}
+.bg-mehroon{
+    background: #781a39;
+}
+
+.learn3pad{
+    padding: 96px 115px 110px 112px;
+}
+.learnpad img, .learnpad2 img{
+    width: 136px;
+    height: 135px;
+}
+.learnpara1{
+    width: 397px;
+    margin: auto;
+}
+.learnpara2{
+    width: 253px;
+    margin: auto;
+}
+
+
+/* deploy case study */
+.sideparadeploy {
+    font-size: 24px;
+    font-family: myThirdFont;
+}
+.listhere li {
+    font-size: 22px;
+    font-family: myThirdFont;
+}
+.listhere{
+    line-height: 35px;
+}
+.bgorangey{
+    padding: 48px 40px;
+}
+.feedbackbg{
+    background-color: #fca600;
+    padding: 48px 40px;
+    width: 100%;
+    position: relative;
+}
+.feedbackbgg{
+    background-color:  #f55e1f;
+    padding: 48px 40px;
+    width: 100%;
+    position: relative;
+}
+.wsm{
+    width: 125px;
+}
+.tright{
+    text-align: right;
+}
+.posabssss{
+    position: absolute;
+    right: -36px;
+    bottom: 122px;
+    z-index: 1;
+}
+.feedbackhead{
+    font-size: 64px;
+    font-family: myFirstFont;
+}
+.feedbackbg3{
+    background: #f3f3f1;
+    width: 100%;
+    padding: 61px 40px;
+}
+.feebackbg2{
+    background: #f3f3f1;
+    width: 100%;
+    padding: 105px 40px;
+}
+.feebackbg3{
+    background: #f3f3f1;
+    width: 100%;
+    padding: 105px 40px;
+}
+.feedpara{
+    font-size: 24px;
+    /* width: 100%; */
+    font-family: mySecondFont;
+}
+#deploycasebg{
+    background: #febaae;
+    padding: 143px 0 141px 0;
+}
+.sideheading{
+    font-size: 40px;;
+    font-family: myThirdFont;
+    color:  #003334;
+}
+.bgbluish{
+    background: #027590 !important;
+}
+.lineheight{
+    line-height: 105px;
+}
+
+.webbanner{
+    background-color: #781b39;
+}
+
+#websitecasepage #navbarsect nav{
+    background: #781b39;
+}
+
+.posrelative{
+    position: relative;
+}
+.posimg img{
+    position: absolute;
+    right:0;
+    bottom: 0;
+}
+
+
+.rangebg1here{
+    background: #fbb6ab;
+    width: 100%;
+    height: 660px;
+}
+.rangebg2here{
+    background: #fddad5;
+    width: 100%;
+    height: 660px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.rangebg1here img{
+    width: 663px;
+    height: 636px;
+}
+
+#imgsect{
+    background: #fddad5;
+    padding: 151px 198px 109px 185px;
+}
+.bgimgg{
+    background-image: url("../img/design-deploy-case-study/bgimg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
