@@ -784,7 +784,6 @@ p.design3para{
 
 .container{
     max-width: 1230px;
-    /* width: 1200px; */
 }
 
 /* support */
@@ -879,7 +878,6 @@ p.design3para{
 }
 .feedpara{
     font-size: 24px;
-    /* width: 100%; */
     font-family: mySecondFont;
 }
 #deploycasebg{
