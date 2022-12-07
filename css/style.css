@@ -303,7 +303,6 @@ form label{
 }
 
 /* footer */
-
 #footersect, .zindex{
     z-index: 1;
 }
@@ -370,9 +369,6 @@ form label{
 .padright{
     padding-right: 90px;
 }
-
-
-
 
 /* //////////////////////ABOUT US */
 .aboutbannerhere{
